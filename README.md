@@ -3,4 +3,4 @@
 > This is my first Git Repositary
 > <br/>
 > Author - Raman Aggarwal(apana colleg)
-author raman
+> author raman aggarwal
